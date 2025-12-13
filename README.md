@@ -1,17 +1,26 @@
-# FAZ3A Wallet
-### Enterprise-Grade Digital Asset Management System
-
 <div align="center">
+  
+# FAZ3A Wallet
+
+
+
+
 
 ![FAZ3A Wallet](https://img.shields.io/badge/FAZ3A-Wallet-0f172a?style=for-the-badge&labelColor=0f172a&color=22c55e)
 ![Security](https://img.shields.io/badge/Security-Bank_Grade-0f172a?style=for-the-badge&labelColor=0f172a&color=3b82f6)
 ![Uptime](https://img.shields.io/badge/Uptime-99.9%25-0f172a?style=for-the-badge&labelColor=0f172a&color=f59e0b)
 
-**A sophisticated, production-ready fintech platform engineered for secure asset management, real-time transaction processing, and seamless client administration.**
-
-[Live System](https://wallet.faz3a.info)
+[Offical Site](https://wallet.faz3a.info)
 
 </div>
+
+---
+
+## Enterprise-Grade Digital Asset Management System
+
+ - **A sophisticated.**
+ - **production-ready fintech platform engineered for secure asset management.**
+ - **real-time transaction processing, and seamless client administration.**
 
 ---
 
