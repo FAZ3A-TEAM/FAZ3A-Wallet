@@ -38,7 +38,7 @@ Stripe's crawler will visit your site immediately.
 *   [IMAGE PLACEHOLDER: Photo of the 4 required physical documents laid out on a desk (EIN letter, Voided Check, Passport/ID, Articles of Inc).]
 *   **Legal Entity:** Articles of Incorporation / Organization.
 *   **Tax ID:** EIN Verification Letter (IRS CP 575 or 147C).
-*   **Identity:** Color scan of Passport or Driverâ€™s License (No glare).
+*   **Identity:** Color scan of Passport or Driver’s License (No glare).
 *   **Banking:** Voided check or Direct Deposit letter (Matches Entity Name).
 
 ---
